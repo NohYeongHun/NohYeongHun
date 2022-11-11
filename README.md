@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeAuto&height=300&section=header&text=YeongHun%20Kim&fontSize=90&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=YeongHun%20Kim&fontSize=90&fontColor=auto)
 
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
