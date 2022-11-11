@@ -18,6 +18,16 @@
   </br>
 </p>
 
+<h3 align="center">🐬 Cowork Tools 🐬</h3>
+ <p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitKraken-0052CC?style=flat-square&logo=GitKraken&logoColor=white"/>
+ </p>
+
+
 <h3 align="center">😊 About Me 😊</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohYeongHun&show_icons=true&theme=radical)
